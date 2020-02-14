@@ -13,11 +13,7 @@ workspace 별로 prettier 의 설정을 다르게 주고싶어서 vscode의 설�
     "editor.formatOnSave": false,
     "[javascript]": {
         "editor.formatOnSave": true
-    },
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.fixAll.stylelint": true
-    },
+    }
 }
 ```
 

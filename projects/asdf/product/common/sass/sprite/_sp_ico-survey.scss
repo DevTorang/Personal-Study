@@ -1,0 +1,33 @@
+// Sprites Map
+$sp_ico-survey: (
+	name: 'sp_ico-survey',
+	width: 101px,
+	height: 98px,
+	image: '../image/sp_ico-survey.png',
+	sprites: (
+	1: (
+			offset-x: -53px,
+			offset-y: 0px,
+			width: 48px,
+			height: 47px,
+		),
+		2: (
+			offset-x: 0px,
+			offset-y: -51px,
+			width: 48px,
+			height: 47px,
+		),
+		3: (
+			offset-x: 0px,
+			offset-y: 0px,
+			width: 49px,
+			height: 47px,
+		),
+		4: (
+			offset-x: -52px,
+			offset-y: -51px,
+			width: 48px,
+			height: 47px,
+		),
+	)
+);

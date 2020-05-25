@@ -19,3 +19,13 @@ workspace 별로 prettier 의 설정을 다르게 주고싶어서 vscode의 설�
 
 필요한 규칙들을 차차 추가할 예정이며
 .eslintrc.json 파일 내부의 값들의 의미를 더 조사해봐야 할듯
+
+
+
+
+
+## Gulp3 (2020. 03 .03)
+
+node.js version 11.4.0
+CLI version: 2.2.0
+Local version: 3.9.1

@@ -1,0 +1,15 @@
+// Sprites Map
+$sp_testdir: (
+	name: 'sp_testdir',
+	width: 512px,
+	height: 512px,
+	image: '../image/sp_testdir.png',
+	sprites: (
+	58960: (
+			offset-x: 0px,
+			offset-y: 0px,
+			width: 512px,
+			height: 512px,
+		),
+	)
+);
